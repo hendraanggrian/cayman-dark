@@ -1,4 +1,4 @@
-# Cayman theme
+# Cayman Theme
 
 ![Main preview.](https://github.com/hendraanggrian/cayman-theme/raw/assets/preview_main.png)
 
@@ -15,11 +15,12 @@ The raw source code can be used to replicate the page by manually editing:
 
 ### Dark Theme
 
-To enable dark theme on the webpage, add `dark.css` to stylesheet after `main.css`
+To enable dark theme on the webpage, add `dark.css` to stylesheet
+after `main.css`
 
 ![Themes preview.](https://github.com/hendraanggrian/cayman-theme/raw/assets/preview_themes.png)
 
 ## Gradle Plugin
 
-Part of [Pages Gradle Plugin](https://github.com/hendraanggrian/pages-gradle-plugin/), a plugin that
-generates a website with this theme from existing markdown files.
+Part of [Pages Gradle Plugin](https://github.com/hendraanggrian/pages-gradle-plugin/),
+a plugin that generates a website with this theme from existing markdown files.
