@@ -1,6 +1,6 @@
 * {
   --surface: #212121; /*Gray 900*/
-  --code-background: #263238; /*Blue Gray 900*/
+  --surface-container: #263238; /*Blue Gray 900*/
 
   --on-surface: #b0bec5; /*Blue Gray 300*/
   --on-surface-variant: #78909c; /*Blue Gray 400*/

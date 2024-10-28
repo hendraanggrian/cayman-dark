@@ -8,7 +8,7 @@
   --secondary-container: #155799;
 
   --surface: #fafafa; /*Gray 50*/
-  --code-background: #eceff1; /*Blue Gray 50*/
+  --surface-container: #eceff1; /*Blue Gray 50*/
 
   --on-surface: #455a64; /*Blue Gray 700*/
   --on-surface-variant: #607d8b; /*Blue Gray 500*/
@@ -159,7 +159,7 @@ a {
     font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
     font-size: 0.9rem;
     color: /*#567482;*/ var(--on-surface);
-    background-color: /*#f3f6fa*/ var(--code-background);
+    background-color: /*#f3f6fa*/ var(--surface-container);
     border-radius: 0.3rem; }
   .main-content pre {
     padding: 0.8rem;
@@ -168,7 +168,7 @@ a {
     font: 1rem Consolas, 'Liberation Mono', Menlo, Courier, monospace;
     color: /*#567482*/ var(--on-surface);
     word-wrap: normal;
-    background-color: /*#f3f6fa*/ var(--code-background);
+    background-color: /*#f3f6fa*/ var(--surface-container);
     border: solid 1px /*#dce6f0*/ var(--outline);
     border-radius: 0.3rem; }
     .main-content pre > code {
